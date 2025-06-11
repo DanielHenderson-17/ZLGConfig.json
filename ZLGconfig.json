@@ -36,7 +36,7 @@
 	"BackgroundTab4":0,
 	"BackgroundTab5":0,
 	"Background3Color":"40,43,48",
-	"FontColorButtons":"66,69,73",
+	"FontColorButtons":"255,255,255",
 	"FontColorServerName":"220, 53, 67",
 	"FontColorTabTitles":"255,255,255",
 	"FontColorTabText":"255,255,255",
