@@ -1,0 +1,201 @@
+	
+	{
+	"ServerName":"ZombieLynxGaming",
+	"ButtonTxt1":"Welcome",
+	"ButtonTxt2":"Rules",
+	"ButtonTxt3":"Settings",
+	"ButtonTxt4":"Commands",
+	"ButtonTxt5":"",
+	"LinkButtonTxt1":"ZLGHome",
+	"LinkButtonTxt2":"Discord",
+	"LinkButtonTxt3":"Buy Points",
+	"LinkButtonTxt4":"",
+	"LinkButtonTxt5":"",
+	"LinkButton1":"https://zlg.gg",
+	"LinkButton2":"https://zlg.gg/discord",
+	"Link1Button3":"https://zlg.gg/shop",
+	"Link2Button3":"",
+	"Link3Button3":"",
+	"Link4Button3":"",
+	"Link1Button4":"",
+	"Link2Button4":"",
+	"Link3Button4":"",
+	"Link4Button4":"",
+	"Link1Button5":"",
+	"Link2Button5":"",
+	"Link3Button5":"",
+	"Link4Button5":"",
+	"Tab1Panelcount":1,
+	"Tab2Panelcount":2,
+	"Tab3Panelcount":2,
+	"Tab4Panelcount":1,
+	"Tab5Panelcount":1,
+	"BackgroundTab1":0,
+	"BackgroundTab2":0,
+	"BackgroundTab3":0,
+	"BackgroundTab4":0,
+	"BackgroundTab5":0,
+	"Background3Color":"40,43,48",
+	"FontColorButtons":"66,69,73",
+	"FontColorServerName":"220, 53, 67",
+	"FontColorTabTitles":"255,255,255",
+	"FontColorTabText":"255,255,255",
+	"UseSteamBrowserLink1":false,
+	"UseSteamBrowserLink2":false,
+	"Tab1Title1":"Server Rules",
+	"Tab1Title2":"",
+	"Tab1Title3":"",
+	"Tab2Title1":"Server Rules",
+	"Tab2Title2":"Building Restrictions",
+	"Tab2Title3":"",
+	"Tab3Title1":"Server Settings",
+	"Tab3Title2":"Mods",
+	"Tab3Title3":"",
+	"Tab4Title1":"Server Commands",
+	"Tab4Title2":"",
+	"Tab4Title3":"",
+	"Tab5Title1":"",
+	"Tab5Title2":"",
+	"Tab5Title3":"",
+	"Tab1Text1":"Welcome to Zombie Lynx Gaming. Please read the rules and be sure to go register on our website to claim your free 300ZP for the shop! F1 for in-game shop.",
+	"Tab1Text2":"",
+	"Tab1Text3":"",
+	"Tab2Text1":"1. Harassment/Griefing
+   a. No excessive harassment, cursing, name-calling, spamming in chat, or griefing. You may foundation wipe caves to claim the spot, but not purely out of malice. No foundation wiping non-cave bases or wiping all dinos.
+
+2. Characters
+   a. No naming your character 123, Human, or similar. No false identities or aliases. Faking identity to admins results in an immediate ban.
+   b. Only one character per cluster; no duplicates. Duplicate characters will be deleted.
+   c. No inappropriate character or tribe names involving curse words, slangs, or inciting illegal behavior (e.g., drug usage, crimes).
+
+3. Raids
+   a. Fobs: Cannot have a MAGA ORP attached. Active raid fobs are off-limits for 3rd party raiding. Once the raid is over, fobs are fair game.
+   b. Team Raiding: Only one team may raid a tribe at a time. No teaming to take down a tribe, including defense teaming.
+   c. Killing Passives: Do not kill passive dinos unless they block your raid or you plan to claim the spot. Breeding dinos are considered passive and protected.
+
+4. Tribes
+   a. The same tribe name and owner must remain across all servers. No tribe hopping for PvP or alliances.
+   b. After a tribe is wiped, they receive 4 days of raid protection.
+   c. Changing the owner requires a recorded vote with 60% approval and can only happen once every two weeks.
+   d. If you leave a tribe, you cannot rejoin it for two weeks.
+
+5. Building
+   a. All structures must be visible above ground and destructible.
+   b. No building in biome entrances like Gen2 tunnels, Valguero tunnels, or Aberration surface entrances. (One vent allowed per tribe on Gen2.)
+   c. No building in unreachable areas or mesh areas.
+   d. No building in spawn points, nests, wyvern scars, mission zones, or banned locations.
+   e. No illegal racers, quetzals, or skiffs. Transport platforms must have at least two open sides.
+   f. No building behind enemy bases to block or bypass defenses. No building into enemy foundation range to block or mesh.
+   g. You may only claim one tight base spot (where a stego cannot walk) per cluster.
+   h. Using Fortnite-style building to raid (building up or across) is allowed.
+
+6. Ark Code of Conduct Rules
+   a. All Ark Official Code of Conduct rules apply except alliances (which are allowed).
+   b. No aimbots, third-party crosshairs, or ESP tools.
+   c. No altering game files for any reason.
+
+7. Server Wipe
+   a. Our intention is to wipe every 4 months or so but sometimes that changes on certain factors. If population lowers or a ton of new people join we may call a vote. Requires 50+% approval to pass. If passed, raid rules (Section 3) are suspended until the wipe which will be within the week.",
+	"Tab2Text2":"No ORP Locations
+- The Island: Ice Cave, Pack Cave
+- Scorched Earth: Church Cave
+- The Center: North Ice Cave, Pearl Cave, All Bear Caves
+- Ragnarok: Triple Waterfall
+- Extinction: South Gate, Alpha Tree, Alpha Platform
+- Crystal Isles: Dragon Cave
+- Lost Island: Crouch Cave
+- Valguero: Oil Cave, The Castle, Alpha Tree
+- Aberration: Shadow Cave, Glowtail Cave
+- Genesis 1: All asteroid spots at the teleport line, Lunar Caves, Corner Pillar
+- Genesis 2: Underwater Laboratory, All center trench rat holes
+- Fjordur: Labyrinth Cave, Beehive Cave, Timeless Cave
+
+No Build Locations
+- Obelisks
+- City Terminals
+- Player Spawns
+- Gen 2 Space Bridges
+- Caves with Boss Terminals
+- Rat holes requiring something other than walking/crouching into",
+	"Tab2Text3":"",
+	"Tab3Text1":"Of course. Here are those server rates in a plain text format inside a code block, which will make it easy to copy.
+
+Mon - Thur
+XP: 3X
+Taming: 6X
+Harvest: 3X
+Fishing Loot: 1.5X
+Baby Mature Speed: 3X
+Mating Interval: 0.2X
+Mating Speed: 3X
+Egg Hatch Speed: 3X
+Lay Egg Interval: 3X
+Loot Crate Quality: 1X
+
+---
+
+Fri - Sun
+XP: 5X
+Taming: 6X
+Harvest: 5X
+Fishing Loot: 1.5X
+Baby Mature Speed: 5X
+Mating Interval: 0.2X
+Mating Speed: 5X
+Egg Hatch Speed: 5X
+Lay Egg Interval: 5X
+Loot Crate Quality: 1X",
+	"Tab3Text2":"Solo Farm Mod
+Structures+
+MX-E Ark Shop UI
+Safe OSD & Element Veins
+Dino Storage V2
+Awesome Spyglass
+",
+	"Tab3Text3":"",
+	"Tab4Text1":"Dino Commands
+/claim - Claims babies around you.
+/imprint - Fully imprints non-adult dino to 100% imprint.
+/stats - Displays dino stats (while looking at ANY dino).
+/shazam - Names your dino to what its stats are.
+
+Shop Commands
+/points - Shows current amount of points.
+/buy <ID> <Amount> - Buys the item from the shop.
+/kit - Shows all kits.
+/kit <KitName> - Redeems the kit.
+/buykit <KitName> <Amount> - Buys a kit (if kit has a price).
+/shop <Page> - Shows a list of available items in the shop.
+/shophelp - Shows custom help message.
+
+Vote Commands
+/vote - Vote for server you are on.
+/reward - Gets your vote reward.
+
+Dino Color Commands
+/sdc <region> <color> - Colors your dino using 5 points!
+
+New Player Protection Commands
+npp info - See what the current NPP settings are on your server!
+npp status - Shows how much time/levels you have left before the protection wears off (Based on oldest and highest tribe member)!
+npp disable - Disables protection for users tribe (only tribe admins can do)!
+npp tribeid - Displays targeted structures Tribe ID!
+npp path - Displays targeted structures blueprint path for structure exemption.
+
+Items+ Commands
+/upload - Uploads all your items including element at terminal.
+/download - Downloads all items that were uploaded.
+
+Player Utilities
+/getbags - If outside of PVP and within 100 foundations you can now use /getbags to retrieve your deathbag.
+
+Newbie Protection
+/pvestatus - Allows to check how much time you have left until PvP starts or ends.
+/checkpve - Allows other players to check whats up with that tribe and how much time do they have left until PvE ends or if theyre in PvP already.
+/pveoff confirm - Allows players to disable their PvE status before it ends naturally.",
+	"Tab4Text2":"",
+	"Tab4Text3":"",
+	"Tab5Text1":"",
+	"Tab5Text2":"",
+	"Tab5Text3":""
+	}
